@@ -1,7 +1,7 @@
 ## Profile
 
 <div>I am Lucas in Taiwan.</div>
-<div>I worked in TSMC as a process engineer about 2 years and I changed my career to be a software engineer. </div>
+<div>I worked in TSMC as a process engineer about 2 years and then changed my career to be a software engineer. </div>
 <div>Now I am a backend engineer in Pinkoi.</div>
 
 
